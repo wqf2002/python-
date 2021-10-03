@@ -1,4 +1,4 @@
-# python-note容器中的文件一览
+# python-note中文件一览
 ## 1、线性表
   ### （1）顺序表
    #### ①sqlist.py
